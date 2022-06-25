@@ -1,5 +1,9 @@
 ### Hi there 🖖🏻
 
+
+
+![Rodolfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsilvabr&show_icons=true&theme=radical)
+
 <!--
 **rsilvabr/rsilvabr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
