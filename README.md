@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevOps, Adianti, Laravel, Nextjs**
 
-- 📫 How to reach me **rodolfols@gmail.com**
+- 📫 How to reach me **hello@rodolfosilva.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
